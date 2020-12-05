@@ -68,7 +68,7 @@
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE</license>
         <forum>https://github.com/Kodi-vStream/venom-xbmc-addons/issues</forum>
-        <source>https://github.com/Kodi-vStream/venom-xbmc-addons/</source>
+        <source>https://github.com/amidevous/venom-xbmc-addons/</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -85,9 +85,9 @@
         provider-name="Venom">
     <extension point="xbmc.addon.repository" name="vStream XBMC Addon Repository">
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/amidevous/venom-xbmc-addons/Beta/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/amidevous/venom-xbmc-addons/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/amidevous/venom-xbmc-addons/repo</datadir>
     </dir>
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml</info>
